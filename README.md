@@ -1,10 +1,10 @@
 ## **README.md**
 
-### **Kotlin Learning Project**
+# **Kotlin Learning Project**
 
 This repository serves as a learning project for the Kotlin programming language. The goal is to explore and practice various Kotlin concepts through the creation of a simple interactive bot.
 
-### **Project Structure**
+## **Project Structure**
 
 The project consists of a single Kotlin file, `bot.kt`, containing the following functions:
 
@@ -15,12 +15,12 @@ The project consists of a single Kotlin file, `bot.kt`, containing the following
 * **test:** Presents a multiple-choice question related to programming methods and evaluates the user's response.
 * **end:** Provides a final greeting and concludes the interaction.
 
-### **Usage**
+## **Usage**
 1. Clone this repository to your local machine.
 2. Use a Kotlin compiler or IDE to run the `bot.kt` file.
 3. Follow the prompts provided by the bot to interact with it.
 
-### **Learning Objectives**
+## **Learning Objectives**
 
 This project aims to reinforce the following Kotlin concepts:
 
@@ -30,7 +30,7 @@ This project aims to reinforce the following Kotlin concepts:
 * **Control Flow:** Using conditional statements (if-else) and loops (for).
 * **Basic Arithmetic:** Performing calculations and using operators.
 
-### **Future Enhancements**
+## **Future Enhancements**
 Potential future enhancements for this project include:
 
 * Expanding the bot's functionality with additional features or interactions.
